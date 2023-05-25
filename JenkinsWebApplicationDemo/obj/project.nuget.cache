@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RqVp1xXt15MCOjMRtX4Aiyo97eyxdj4AEAwNw0r0/R4IJcNm53xTmR2EEgi/6kww0tW8Hj87rvMObuN5WUU3WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Portfolio\\WebApplicationForJenkins\\JenkinsWebApplicationDemo\\JenkinsWebApplicationDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Юра\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Юра\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Юра\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Юра\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Юра\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Юра\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
